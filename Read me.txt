@@ -1,0 +1,2 @@
+1. EditorTime.cs needs to be in the scene, I just put it on the Camera
+2. Put EditorTimelapseTool.cs on your Camera and fill out the Start & End Transforms, Enjoy!
